@@ -1,2 +1,2 @@
-# Dorcly-Password-Encrypter
+# Mena-Password-Encrypter
 Simple Web App for pass encryption by Dorcly 
